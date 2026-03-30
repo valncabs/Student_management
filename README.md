@@ -52,6 +52,8 @@ student = { "id": id,
 
 python main.py and interact with the menu.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/236ed690-7bc6-4588-beee-930e940573e4" />
+
 ---
 
 
