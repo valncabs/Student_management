@@ -8,6 +8,7 @@ It allows the user to manage student information through basic operations such a
 
 The program also works with CSV files to save and load data.
 
+##### Link Repository: https://github.com/valncabs/Student_management.git 
 ---
 
 ## Functionalities
