@@ -1,6 +1,6 @@
 # Student Management System
 
-##Description
+## Description
 
 This project is a student registration system developed in Python.
 
